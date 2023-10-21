@@ -5,3 +5,6 @@ Cybersecuirty analyst
 
 # experiane :
 2 years
+
+- projects:
+- values
