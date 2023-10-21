@@ -1,11 +1,12 @@
-# Data Scientist
+# Cybersecurity Analyst
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Google Cybersecurity Professional Certified |  (October 2023)
+- Ethical Hackinh essentional (EHE) | EC-Council (in progress)							       		
+- CCNA certified	| Cisco Academy (_December 2017_)	 			        		
+- (Bach) Electronics engineering major in Telecommunications | Multimedia University, Malaysia (_May 2013_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
