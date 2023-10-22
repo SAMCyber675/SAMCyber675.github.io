@@ -6,16 +6,19 @@
 - Google Cybersecurity Professional Certified |  (October 2023)
 - Ethical Hackinh essentional (EHE) | EC-Council (in progress)							       		
 - CCNA certified	| Cisco Academy (_December 2017_)	 [website](www.sam.gom)			        		
-- (Bach) Electronics engineering major in Telecommunications | Multimedia University, Malaysia (_May 2013_)
+- Bachelor Electronics engineering major in Telecommunications | Multimedia University, Malaysia (_May 2013_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Supervisor @ Marathon Gas Station (_October 2022 - Present_)**
+- Manage and supervise daily Gas station operations
+- Monitoring the store deli and grociries sales
+- Train and hire new employeees 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Assembler & Technican @ ELT Custom Cooler (_March 2022 - September 2022_)**
+- Fabricate steel for commercial coolers doors
+- assemble coolers doors component
+- put doors 
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
