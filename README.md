@@ -5,7 +5,7 @@
 ## Education
 - Google Cybersecurity Professional Certified |  (October 2023)
 - Ethical Hackinh essentional (EHE) | EC-Council (in progress)							       		
-- CCNA certified	| Cisco Academy (_December 2017_)	 			        		
+- CCNA certified	| Cisco Academy (_December 2017_)	 [website](www.sam.gom)			        		
 - (Bach) Electronics engineering major in Telecommunications | Multimedia University, Malaysia (_May 2013_)
 
 ## Work Experience
